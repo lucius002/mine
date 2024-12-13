@@ -787,3 +787,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 19:38:45.243] [Server thread/INFO] [Jade/]: Syncing config to luciu_black (48812f9b-dcef-3414-958e-f80113c926fd)
 [13Dec2024 19:38:56.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Disconnected
 [13Dec2024 19:38:56.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
+[13Dec2024 19:47:11.621] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2132b2a4[id=<null>,name=luciu_black,properties={},legacy=false] (/127.43.98.180:54155): Took too long to log in
+[13Dec2024 19:47:11.623] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2132b2a4[id=<null>,name=luciu_black,properties={},legacy=false] (/127.43.98.180:54155) lost connection: Took too long to log in
+[13Dec2024 19:47:11.668] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 19:47:32.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciu_black[/127.43.98.180:60895] logged in with entity id 1668 at (-8.9547232722446, 87.0, 5.175021478545901)
+[13Dec2024 19:47:32.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black joined the game
+[13Dec2024 19:47:32.568] [Server thread/INFO] [Jade/]: Syncing config to luciu_black (48812f9b-dcef-3414-958e-f80113c926fd)
+[13Dec2024 19:47:56.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has reached the goal [Here They Come]
+[13Dec2024 19:48:20.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black tried to swim in lava
+[13Dec2024 19:48:20.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Your First Grave]
+[13Dec2024 19:48:20.327] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[13Dec2024 19:48:21.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [The Most Useful Key]
+[13Dec2024 19:48:48.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:44131] logged in with entity id 2013 at (-4.5, 87.0, -5.5)
+[13Dec2024 19:48:48.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[13Dec2024 19:48:49.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Christmas]
+[13Dec2024 19:48:49.050] [Server thread/INFO] [Jade/]: Syncing config to Alejaso (d6a2321d-3bf9-3ff8-b584-ee9e21a362c7)
+[13Dec2024 19:48:49.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Ice and Fire]
+[13Dec2024 19:48:49.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has completed the challenge [The Undead]
+[13Dec2024 19:49:03.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was shot by Skeleton
+[13Dec2024 19:49:03.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Your First Grave]
+[13Dec2024 19:49:03.050] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[13Dec2024 19:49:06.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [The Most Useful Key]
+[13Dec2024 19:49:28.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso was kicked for floating too long!
+[13Dec2024 19:49:28.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Flying is not enabled on this server
+[13Dec2024 19:49:28.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[13Dec2024 19:49:30.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was shot by Mutant Skeleton
+[13Dec2024 19:49:30.492] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[13Dec2024 19:51:32.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was shot by Mutant Skeleton
+[13Dec2024 19:51:32.998] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[13Dec2024 19:53:14.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was slain by The Moonflower
+[13Dec2024 19:53:14.411] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[13Dec2024 19:55:04.090] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [supplementaries:channel,watut:main,alexscaves:main_channel,bagus_lib:channel,placeablesmod:placeablesmod,eeeabsmobs:net,vanillaplustools:net-channel,sophisticatedbackpacks:channel,bettermobs:bettermobs,nitrogen_internals:main,earthmobsmod:channel,cataclysm:main_channel,enchantinginfuser:1,forge:tier_sorting,alexsmobs:main_channel,bloodmagic:main,mowziesmobs:net,cosmeticarmorreworked:main,kleeslabs:network,mutantmonsters:1,geckolib:main,enemyexpansion:enemyexpansion,moonlight:channel,stalwart_dungeons:stalwart_dungeons,cookingforblockheads:network,aether:main,carryon:carryonpackets,endermanoverhaul:main,citadel:main_channel,recipes_unlocked:recipes_unlocked,securitycraft:securitycraft,born_in_chaos_v1:born_in_chaos_v1,iceandfire:main_channel,luminousworld:luminousworld,friendsandfoes:networking,ad_astra:main,curios:main,w2w2:main,botania:main,polymorph:main,supermartijn642configlib:sync_configs,quark:main,tombstone:tombstone_channel,undead_revamp2:undead_revamp2,sophisticatedcore:channel,patchouli:main,easyanvils:1,ironchest:network,zeta:main,elevatorid:main_channel,twilightforest:channel,waystones:network] rejected vanilla connections
+[13Dec2024 19:55:04.091] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.147.200.137:56293] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
