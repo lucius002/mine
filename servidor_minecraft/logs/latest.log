@@ -819,3 +819,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 19:53:14.411] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
 [13Dec2024 19:55:04.090] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [supplementaries:channel,watut:main,alexscaves:main_channel,bagus_lib:channel,placeablesmod:placeablesmod,eeeabsmobs:net,vanillaplustools:net-channel,sophisticatedbackpacks:channel,bettermobs:bettermobs,nitrogen_internals:main,earthmobsmod:channel,cataclysm:main_channel,enchantinginfuser:1,forge:tier_sorting,alexsmobs:main_channel,bloodmagic:main,mowziesmobs:net,cosmeticarmorreworked:main,kleeslabs:network,mutantmonsters:1,geckolib:main,enemyexpansion:enemyexpansion,moonlight:channel,stalwart_dungeons:stalwart_dungeons,cookingforblockheads:network,aether:main,carryon:carryonpackets,endermanoverhaul:main,citadel:main_channel,recipes_unlocked:recipes_unlocked,securitycraft:securitycraft,born_in_chaos_v1:born_in_chaos_v1,iceandfire:main_channel,luminousworld:luminousworld,friendsandfoes:networking,ad_astra:main,curios:main,w2w2:main,botania:main,polymorph:main,supermartijn642configlib:sync_configs,quark:main,tombstone:tombstone_channel,undead_revamp2:undead_revamp2,sophisticatedcore:channel,patchouli:main,easyanvils:1,ironchest:network,zeta:main,elevatorid:main_channel,twilightforest:channel,waystones:network] rejected vanilla connections
 [13Dec2024 19:55:04.091] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.147.200.137:56293] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[13Dec2024 19:57:17.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:56523] logged in with entity id 3912 at (45.06701689257094, 78.28549238931866, 10.238875141810421)
+[13Dec2024 19:57:17.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[13Dec2024 19:57:17.985] [Server thread/INFO] [Jade/]: Syncing config to Alejaso (d6a2321d-3bf9-3ff8-b584-ee9e21a362c7)
+[13Dec2024 19:57:33.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso was kicked for floating too long!
+[13Dec2024 19:57:33.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Flying is not enabled on this server
+[13Dec2024 19:57:33.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[13Dec2024 19:59:28.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:48921] logged in with entity id 4301 at (45.06701689257094, 78.28549238931866, 10.238875141810421)
+[13Dec2024 19:59:28.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[13Dec2024 19:59:28.115] [Server thread/INFO] [Jade/]: Syncing config to Alejaso (d6a2321d-3bf9-3ff8-b584-ee9e21a362c7)
+[13Dec2024 19:59:43.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso was kicked for floating too long!
+[13Dec2024 19:59:43.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Flying is not enabled on this server
+[13Dec2024 19:59:43.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[13Dec2024 20:00:04.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:33361] logged in with entity id 4423 at (45.06701689257094, 67.58146967964029, 10.238875141810421)
+[13Dec2024 20:00:04.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[13Dec2024 20:00:04.377] [Server thread/INFO] [Jade/]: Syncing config to Alejaso (d6a2321d-3bf9-3ff8-b584-ee9e21a362c7)
+[13Dec2024 20:00:12.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alejaso a server operator
+[13Dec2024 20:01:21.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to Alejaso]
+[13Dec2024 20:03:31.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Alex's Mobs]
+[13Dec2024 20:03:57.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was slain by Alejaso
+[13Dec2024 20:03:57.130] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[13Dec2024 20:04:09.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -23.500000, 86.500000, -4.500000]
+[13Dec2024 20:04:18.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -63.500000, 80.500000, -43.500000]
+[13Dec2024 20:04:21.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Knowledge of Death]
+[13Dec2024 20:04:21.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has reached the goal [Chain Death]
+[13Dec2024 20:04:21.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black tried to swim in lava
+[13Dec2024 20:04:21.453] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[13Dec2024 20:04:31.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -62.500000, 80.500000, -43.500000]
+[13Dec2024 20:05:13.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alejaso: Teleported Alejaso to -14.500000, 87.500000, 1.500000]
+[13Dec2024 20:05:35.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alejaso: Teleported Alejaso to -14.500000, 87.500000, 1.500000]
+[13Dec2024 20:06:18.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso tried to swim in lava
+[13Dec2024 20:06:18.040] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
