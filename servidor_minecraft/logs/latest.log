@@ -856,3 +856,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Dec2024 17:27:34.680] [Server thread/INFO] [Jade/]: Syncing config to luciu_black (48812f9b-dcef-3414-958e-f80113c926fd)
 [15Dec2024 17:28:14.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Disconnected
 [15Dec2024 17:28:14.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
+[15Dec2024 17:43:20.579] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6781aa66[id=<null>,name=luciu_black,properties={},legacy=false] (/127.43.98.180:55457) lost connection: Disconnected
+[15Dec2024 17:49:09.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciu_black[/127.43.98.180:37933] logged in with entity id 2524 at (21.098319549361115, 74.0, 0.3437855211312518)
+[15Dec2024 17:49:09.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black joined the game
+[15Dec2024 17:49:09.575] [Server thread/INFO] [Jade/]: Syncing config to luciu_black (48812f9b-dcef-3414-958e-f80113c926fd)
+[15Dec2024 17:49:39.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Timed out
+[15Dec2024 17:49:39.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
+[15Dec2024 17:50:01.377] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42d7a9f3[id=<null>,name=luciu_black,properties={},legacy=false] (/127.43.98.180:40769) lost connection: Disconnected
+[15Dec2024 17:51:25.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciu_black[/127.43.98.180:49955] logged in with entity id 2621 at (21.098319549361115, 74.0, 0.3437855211312518)
+[15Dec2024 17:51:25.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black joined the game
+[15Dec2024 17:51:25.715] [Server thread/INFO] [Jade/]: Syncing config to luciu_black (48812f9b-dcef-3414-958e-f80113c926fd)
+[15Dec2024 17:51:45.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Disconnected
+[15Dec2024 17:51:45.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
