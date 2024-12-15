@@ -11999,3 +11999,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Dec2024 17:28:14.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
 [15Dec2024 17:28:58.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Dec2024 17:28:58.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 17:33:58.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 17:33:58.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 17:38:58.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 17:38:58.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
