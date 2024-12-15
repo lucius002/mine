@@ -851,3 +851,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Dec2024 17:14:09.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [15Dec2024 17:18:45.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Disconnected
 [15Dec2024 17:18:45.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
+[15Dec2024 17:27:34.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciu_black[/127.43.98.180:51341] logged in with entity id 2390 at (3.699999988079071, 69.0, -5.761389678494643)
+[15Dec2024 17:27:34.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black joined the game
+[15Dec2024 17:27:34.680] [Server thread/INFO] [Jade/]: Syncing config to luciu_black (48812f9b-dcef-3414-958e-f80113c926fd)
+[15Dec2024 17:28:14.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Disconnected
+[15Dec2024 17:28:14.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
