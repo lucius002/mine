@@ -212,9 +212,9 @@
   },
   "playerRendererBlacklist": {
     "epicfight": "all",
-    "firstpersonmod": "arms",
+    "morph": "arms",
     "firstperson": "arms",
-    "morph": "arms"
+    "firstpersonmod": "arms"
   },
   "enabledTraits": {
     "SIRBEN": true,
