@@ -1005,3 +1005,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 20:02:06.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Disconnected
 [18Dec2024 20:02:06.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
 [18Dec2024 20:06:50.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mevlida'/79858, l='ServerLevel[world]', x=101.47, y=74.00, z=-131.08] died, message: 'Mevlida hit the ground too hard'
+[18Dec2024 20:15:59.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
+[18Dec2024 20:16:01.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Survival Mode]
+[18Dec2024 20:16:01.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
