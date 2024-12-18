@@ -888,3 +888,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 17:28:20.809] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
 [18Dec2024 17:28:29.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nedim'/11938, l='ServerLevel[world]', x=100.53, y=64.00, z=168.21] died, message: 'Nedim hit the ground too hard'
 [18Dec2024 17:28:39.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 80.500000, -48.500000, -238.500000]
+[18Dec2024 17:42:31.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Minecraft Comes Alive]
+[18Dec2024 17:43:36.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [Need A Map?]
+[18Dec2024 17:43:36.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [The Beginning of An Adventure]
+[18Dec2024 17:46:03.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [Prank em John!]
+[18Dec2024 17:47:45.269] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bashkim'/20276, l='ServerLevel[world]', x=164.31, y=65.00, z=-132.83] died, message: 'Bashkim hit the ground too hard'
+[18Dec2024 17:48:20.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has reached the goal [Strong or Careful]
+[18Dec2024 17:48:20.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler was slain by Zombie
+[18Dec2024 17:48:20.853] [Server thread/INFO] [tombstone/]: The player nightycrawler has successfully been saved

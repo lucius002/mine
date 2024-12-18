@@ -421,6 +421,18 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2024-12-18 17:42:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-12-18 17:45:33 +0000"
+    },
+    "done": true
+  },
   "touhou_little_maid:base/kill_maid_fairy": {
     "criteria": {
       "killed_entity": "2024-12-18 17:10:33 +0000"

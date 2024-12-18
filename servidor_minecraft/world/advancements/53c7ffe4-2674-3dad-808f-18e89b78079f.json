@@ -387,6 +387,12 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2024-12-18 17:43:36 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-18 16:46:49 +0000"
@@ -396,6 +402,12 @@
   "enemyexpansion:vampire_slayer": {
     "criteria": {
       "vampire_slayer_0": "2024-12-18 16:56:44 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-18 17:43:36 +0000"
     },
     "done": true
   },
