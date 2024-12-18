@@ -203,15 +203,15 @@ building-anytime.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734304951956 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734304990208 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA4_QwAAAZPMoW7TAAAAAQAAAAEAAAAAAAAAAN11v6MhoBkFVNyYU2ic3k66IHIOwyH1qhipQeQNQ5zr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA4_QwAAAZPMogRIAAAAAQAAAAEAAAAAAAAAAEHtKSRzm9EiCkz3ei6ZJ8njG97eW8AR8BaMlRP3EsXg
 
 TUNNELS
 building-anytime.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734304955069 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734304993354 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA4_QwAAAZPMoW7TAAAAAQAAAAEAAAAAAAAAAN11v6MhoBkFVNyYU2ic3k66IHIOwyH1qhipQeQNQ5zr
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA4_QwAAAZPMogRIAAAAAQAAAAEAAAAAAAAAAEHtKSRzm9EiCkz3ei6ZJ8njG97eW8AR8BaMlRP3EsXg
 
 TUNNELS
 building-anytime.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
@@ -234,6 +234,18 @@ building-anytime.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
 [2J8[0mplayit (v0.15.26): 1734304988398 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA4_QwAAAZPMof0vAAAAAQAAAAEAAAAAAAAAABD81hxakhaMEw-4-AJUNcX0RG3LQk-IjLz0PoQvRN2c
+
+TUNNELS
+building-anytime.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734304991515 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA4_QwAAAZPMof0vAAAAAQAAAAEAAAAAAAAAABD81hxakhaMEw-4-AJUNcX0RG3LQk-IjLz0PoQvRN2c
+
+TUNNELS
+building-anytime.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734304994576 tunnel running, 1 tunnels registered
 
 login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA4_QwAAAZPMof0vAAAAAQAAAAEAAAAAAAAAABD81hxakhaMEw-4-AJUNcX0RG3LQk-IjLz0PoQvRN2c
 
