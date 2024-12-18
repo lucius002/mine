@@ -319,6 +319,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-18 03:01:34 +0000",
+      "minecraft:spider": "2024-12-18 19:51:30 +0000",
+      "quark:forgotten": "2024-12-18 19:59:17 +0000",
       "minecraft:cave_spider": "2024-12-18 18:09:02 +0000",
       "minecraft:silverfish": "2024-12-18 19:14:01 +0000",
       "minecraft:zombie": "2024-12-18 02:31:41 +0000"
@@ -439,15 +441,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_voodoo_poppet": {
+  "endrem:main/lost_eye": {
     "criteria": {
-      "has_voodoo_poppet": "2024-12-18 19:21:44 +0000"
+      "lost_eye": "2024-12-18 18:59:03 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
-      "coded_trigger": "2024-12-18 19:28:12 +0000"
+      "has_voodoo_poppet": "2024-12-18 19:21:44 +0000"
     },
     "done": true
   },
@@ -457,9 +459,88 @@
     },
     "done": true
   },
-  "endrem:main/lost_eye": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "lost_eye": "2024-12-18 18:59:03 +0000"
+      "coded_trigger": "2024-12-18 19:28:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 20:01:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 20:01:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 20:01:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 20:01:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 20:01:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-18 20:01:56 +0000",
+      "log_spam_fixer": "2024-12-18 20:01:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 20:01:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 20:01:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 20:01:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 20:01:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 20:01:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 20:01:51 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 19:50:46 +0000"
     },
     "done": true
   },

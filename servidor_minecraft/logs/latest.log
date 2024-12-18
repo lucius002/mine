@@ -972,3 +972,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 19:38:31.485] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/63664, l='ServerLevel[world]', x=-391.50, y=73.00, z=-169.50]
 [18Dec2024 19:38:43.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso tried to swim in lava
 [18Dec2024 19:38:43.535] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[18Dec2024 19:42:06.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luciu_black> 128/65/-530
+[18Dec2024 19:45:33.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 was slain by Enraged Troll
+[18Dec2024 19:45:33.525] [Server thread/INFO] [tombstone/]: The player LeanCapo5 has successfully been saved
+[18Dec2024 19:47:55.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was slain by Direwolf
+[18Dec2024 19:47:55.156] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[18Dec2024 19:48:02.642] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/70138, l='ServerLevel[world]', x=398.50, y=73.00, z=-397.50]
+[18Dec2024 19:48:09.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 111.500000, 68.500000, -570.500000]
+[18Dec2024 19:49:05.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Disconnected
+[18Dec2024 19:49:05.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[18Dec2024 19:49:05.956] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 19:49:54.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:36199] logged in with entity id 71105 at (-205.23994489817792, -51.0, -244.17975625489277)
+[18Dec2024 19:49:54.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[18Dec2024 19:49:54.155] [Server thread/INFO] [Jade/]: Syncing config to Alejaso (d6a2321d-3bf9-3ff8-b584-ee9e21a362c7)
+[18Dec2024 19:50:46.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has reached the goal [Bone Crusher]
+[18Dec2024 19:52:37.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 fell from a high place
+[18Dec2024 19:52:37.179] [Server thread/INFO] [tombstone/]: The player LeanCapo5 has successfully been saved
+[18Dec2024 19:52:44.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Milan'/49300, l='ServerLevel[world]', x=164.31, y=65.00, z=-132.83] died, message: 'Milan hit the ground too hard'
+[18Dec2024 19:55:54.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 has made the advancement [Ambush]
+[18Dec2024 19:57:01.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 was slain by Zombie
+[18Dec2024 19:57:01.994] [Server thread/INFO] [tombstone/]: The player LeanCapo5 has successfully been saved
+[18Dec2024 19:57:34.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Zombie
+[18Dec2024 19:57:34.410] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[18Dec2024 19:58:28.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 has made the advancement [A Strange Grave Dust]
+[18Dec2024 19:59:23.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 has reached the goal [This Belongs in a Museum]
+[18Dec2024 19:59:33.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 was slain by Zombie
+[18Dec2024 19:59:33.269] [Server thread/INFO] [tombstone/]: The player LeanCapo5 has successfully been saved
+[18Dec2024 19:59:51.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Zombie
+[18Dec2024 19:59:51.319] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[18Dec2024 20:01:58.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LeanCapo5 lost connection: Disconnected
+[18Dec2024 20:01:58.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 left the game
+[18Dec2024 20:02:06.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Disconnected
+[18Dec2024 20:02:06.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
