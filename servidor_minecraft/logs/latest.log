@@ -943,3 +943,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 19:03:39.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LeanCapo5> 164 -130
 [18Dec2024 19:06:15.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sava'/47546, l='ServerLevel[world]', x=102.12, y=74.00, z=-131.10] died, message: 'Sava hit the ground too hard'
 [18Dec2024 19:06:24.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marinko'/47580, l='ServerLevel[world]', x=163.25, y=65.00, z=-132.79] died, message: 'Marinko hit the ground too hard'
+[18Dec2024 19:11:51.147] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Petar'/49206, l='ServerLevel[world]', x=102.12, y=74.00, z=-131.10] died, message: 'Petar hit the ground too hard'
+[18Dec2024 19:12:05.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 128.500000, 65.500000, -527.500000]
+[18Dec2024 19:13:45.907] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Intruder'/50173, l='ServerLevel[world]', x=-115.19, y=-16.52, z=-144.10] died: Intruder was blown up by Intruder
+[18Dec2024 19:14:26.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso moved wrongly!
+[18Dec2024 19:15:00.193] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[18Dec2024 19:15:00.194] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[18Dec2024 19:15:00.195] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[18Dec2024 19:15:00.195] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[18Dec2024 19:15:00.208] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[18Dec2024 19:15:34.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 has made the advancement [They Have a Cave Troll!]
+[18Dec2024 19:17:13.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 has made the advancement [Not Today, Thank You]
+[18Dec2024 19:21:44.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Back to childhood]
+[18Dec2024 19:21:44.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Not even afraid of death]
+[18Dec2024 19:23:15.135] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/54757, l='ServerLevel[world]', x=-219.50, y=73.00, z=-141.50]
+[18Dec2024 19:24:10.287] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/55217, l='ServerLevel[world]', x=-217.50, y=73.00, z=-141.50]
+[18Dec2024 19:24:42.107] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/55518, l='ServerLevel[world]', x=-218.50, y=73.00, z=-139.50]
+[18Dec2024 19:25:29.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 has made the advancement [Ashes 'n Bones]
+[18Dec2024 19:27:15.884] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/56848, l='ServerLevel[world]', x=-393.50, y=73.00, z=-170.50]
+[18Dec2024 19:27:29.213] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/57006, l='ServerLevel[world]', x=-219.50, y=73.00, z=-139.50]
+[18Dec2024 19:27:38.886] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/57173, l='ServerLevel[world]', x=-218.50, y=73.00, z=-141.50]
+[18Dec2024 19:28:12.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has reached the goal [Strong or Careful]
+[18Dec2024 19:28:12.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was shot by Mutant Skeleton
+[18Dec2024 19:28:12.383] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[18Dec2024 19:28:34.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 has made the advancement [Vampire Slayer]
+[18Dec2024 19:29:24.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/58706, l='ServerLevel[world]', x=-217.50, y=73.00, z=-139.50]
+[18Dec2024 19:30:53.723] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/59691, l='ServerLevel[world]', x=-391.50, y=73.00, z=-171.50]
+[18Dec2024 19:38:31.485] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/63664, l='ServerLevel[world]', x=-391.50, y=73.00, z=-169.50]
+[18Dec2024 19:38:43.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso tried to swim in lava
+[18Dec2024 19:38:43.535] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
