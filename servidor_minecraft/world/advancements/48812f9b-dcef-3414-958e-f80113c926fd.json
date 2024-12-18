@@ -433,5 +433,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 17:18:15 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2024-12-18 17:20:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

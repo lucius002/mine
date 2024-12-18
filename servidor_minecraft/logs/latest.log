@@ -874,3 +874,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 17:13:46.242] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Staniša'/8294, l='ServerLevel[world]', x=164.31, y=65.00, z=-132.83] died, message: 'Staniša hit the ground too hard'
 [18Dec2024 17:15:11.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilinka'/8668, l='ServerLevel[world]', x=102.12, y=74.00, z=-131.10] died, message: 'Ilinka hit the ground too hard'
 [18Dec2024 17:18:15.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Ashes 'n Bones]
+[18Dec2024 17:20:18.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by luciu_black
+[18Dec2024 17:20:18.617] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[18Dec2024 17:20:25.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Vampire Slayer]
+[18Dec2024 17:21:27.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Amateur Archaeologist]
+[18Dec2024 17:25:41.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [A Strange Grave Dust]
+[18Dec2024 17:26:19.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by luciu_black
+[18Dec2024 17:26:19.936] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[18Dec2024 17:26:28.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Živan'/11415, l='ServerLevel[world]', x=159.79, y=73.00, z=-137.52] died, message: 'Živan hit the ground too hard'
+[18Dec2024 17:26:46.151] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dušanka'/11613, l='ServerLevel[world]', x=102.12, y=74.00, z=-131.10] died, message: 'Dušanka hit the ground too hard'
+[18Dec2024 17:27:14.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Draško'/11684, l='ServerLevel[world]', x=159.79, y=73.00, z=-137.52] died, message: 'Draško hit the ground too hard'
+[18Dec2024 17:28:20.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was slain by Zombie
+[18Dec2024 17:28:20.809] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[18Dec2024 17:28:29.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nedim'/11938, l='ServerLevel[world]', x=100.53, y=64.00, z=168.21] died, message: 'Nedim hit the ground too hard'
+[18Dec2024 17:28:39.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 80.500000, -48.500000, -238.500000]

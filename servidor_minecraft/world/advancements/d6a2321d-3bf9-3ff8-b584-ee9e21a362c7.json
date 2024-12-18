@@ -242,6 +242,7 @@
       "cooked_porkchop": "2024-12-18 02:09:41 +0000",
       "cooked_mutton": "2024-12-18 02:44:28 +0000",
       "cooked_beef": "2024-12-18 03:46:10 +0000",
+      "cooked_cod": "2024-12-18 17:22:56 +0000",
       "golden_carrot": "2024-12-18 17:06:14 +0000",
       "cooked_chicken": "2024-12-18 02:13:00 +0000"
     },
@@ -383,6 +384,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-18 17:00:52 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-18 17:21:27 +0000"
     },
     "done": true
   },
