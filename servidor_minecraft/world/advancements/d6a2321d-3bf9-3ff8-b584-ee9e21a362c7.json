@@ -242,6 +242,7 @@
       "cooked_porkchop": "2024-12-18 02:09:41 +0000",
       "cooked_mutton": "2024-12-18 02:44:28 +0000",
       "cooked_beef": "2024-12-18 03:46:10 +0000",
+      "golden_carrot": "2024-12-18 17:06:14 +0000",
       "cooked_chicken": "2024-12-18 02:13:00 +0000"
     },
     "done": false
@@ -373,6 +374,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-18 17:12:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-18 17:00:52 +0000"
@@ -382,6 +389,12 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-18 16:48:02 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2024-12-18 17:12:04 +0000"
     },
     "done": true
   },

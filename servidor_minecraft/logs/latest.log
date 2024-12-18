@@ -865,3 +865,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 17:04:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [Isn't It Iron Pick]
 [18Dec2024 17:06:40.145] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Radica'/6988, l='ServerLevel[world]', x=102.12, y=74.00, z=-131.10] died, message: 'Radica hit the ground too hard'
 [18Dec2024 17:08:56.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [Suit Up]
+[18Dec2024 17:10:33.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Annoying Little Faes]
+[18Dec2024 17:10:34.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Taste the Rainbow]
+[18Dec2024 17:10:47.244] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kata'/6839, l='ServerLevel[world]', x=248.00, y=66.00, z=-360.30] died, message: 'Kata suffocated in a wall'
+[18Dec2024 17:10:47.245] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kata'/6839, l='ServerLevel[world]', x=248.00, y=66.00, z=-360.30] died: Kata suffocated in a wall
+[18Dec2024 17:12:04.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Vampire Slayer]
+[18Dec2024 17:12:04.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [A Strange Grave Dust]
+[18Dec2024 17:13:46.242] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Staniša'/8294, l='ServerLevel[world]', x=164.31, y=65.00, z=-132.83] died, message: 'Staniša hit the ground too hard'
+[18Dec2024 17:15:11.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilinka'/8668, l='ServerLevel[world]', x=102.12, y=74.00, z=-131.10] died, message: 'Ilinka hit the ground too hard'
+[18Dec2024 17:18:15.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Ashes 'n Bones]
