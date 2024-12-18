@@ -923,3 +923,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 18:19:51.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Survival Mode]
 [18Dec2024 18:19:52.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
 [18Dec2024 18:29:29.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Živorad'/36617, l='ServerLevel[world]', x=159.69, y=73.00, z=-136.46] died, message: 'Živorad hit the ground too hard'
+[18Dec2024 18:32:06.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jovanka'/37062, l='ServerLevel[world]', x=159.69, y=73.00, z=-136.46] died, message: 'Jovanka hit the ground too hard'
