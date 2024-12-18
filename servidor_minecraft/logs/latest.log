@@ -857,3 +857,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 16:48:02.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Mysterious Gift]
 [18Dec2024 16:48:02.648] [Server thread/INFO] [Jade/]: Syncing config to Alejaso (d6a2321d-3bf9-3ff8-b584-ee9e21a362c7)
 [18Dec2024 16:49:12.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Draginja'/2812, l='ServerLevel[world]', x=159.69, y=73.00, z=-136.46] died, message: 'Draginja hit the ground too hard'
+[18Dec2024 16:53:27.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zora'/3771, l='ServerLevel[world]', x=159.79, y=73.00, z=-137.52] died, message: 'Zora hit the ground too hard'
+[18Dec2024 16:56:44.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [Vampire Slayer]
