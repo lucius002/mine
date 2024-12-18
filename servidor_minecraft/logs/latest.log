@@ -896,3 +896,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 17:48:20.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has reached the goal [Strong or Careful]
 [18Dec2024 17:48:20.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler was slain by Zombie
 [18Dec2024 17:48:20.853] [Server thread/INFO] [tombstone/]: The player nightycrawler has successfully been saved
+[18Dec2024 17:51:08.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Divna'/17419, l='ServerLevel[world]', x=273.10, y=66.00, z=-374.14] died, message: 'Divna was slain by luciu_black'
+[18Dec2024 17:51:08.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Neighborhood Brawl]
+[18Dec2024 17:51:08.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Divna'/17419, l='ServerLevel[world]', x=273.10, y=66.00, z=-374.14] died: Divna was slain by luciu_black
+[18Dec2024 17:51:26.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [Hide and Seek]
+[18Dec2024 17:54:03.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jelena'/23733, l='ServerLevel[world]', x=102.12, y=74.00, z=-131.10] died, message: 'Jelena hit the ground too hard'
+[18Dec2024 17:54:11.270] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dželal'/23802, l='ServerLevel[world]', x=164.31, y=65.00, z=-132.83] died, message: 'Dželal hit the ground too hard'
+[18Dec2024 17:57:05.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Magic Writing]
+[18Dec2024 17:57:15.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has reached the goal [Great minds think alike]
+[18Dec2024 17:59:12.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has completed the challenge [Hunted]
+[18Dec2024 18:02:03.225] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27788, l='ServerLevel[world]', x=396.50, y=73.00, z=-397.50]
+[18Dec2024 18:03:33.140] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28615, l='ServerLevel[world]', x=488.50, y=77.00, z=-320.50]
+[18Dec2024 18:04:51.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [The Lighthouse]
+[18Dec2024 18:09:19.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nightycrawler lost connection: Disconnected
+[18Dec2024 18:09:19.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler left the game
+[18Dec2024 18:09:38.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mira'/32249, l='ServerLevel[world]', x=164.31, y=65.00, z=-132.83] died, message: 'Mira hit the ground too hard'
+[18Dec2024 18:09:56.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Disconnected
+[18Dec2024 18:09:56.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[18Dec2024 18:10:17.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
+[18Dec2024 18:10:18.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Survival Mode]
+[18Dec2024 18:10:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
