@@ -859,3 +859,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 16:49:12.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Draginja'/2812, l='ServerLevel[world]', x=159.69, y=73.00, z=-136.46] died, message: 'Draginja hit the ground too hard'
 [18Dec2024 16:53:27.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zora'/3771, l='ServerLevel[world]', x=159.79, y=73.00, z=-137.52] died, message: 'Zora hit the ground too hard'
 [18Dec2024 16:56:44.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [Vampire Slayer]
+[18Dec2024 17:00:52.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Ice Bucket Challenge]
+[18Dec2024 17:02:58.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso fell from a high place
+[18Dec2024 17:02:58.545] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[18Dec2024 17:04:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [Isn't It Iron Pick]
+[18Dec2024 17:06:40.145] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Radica'/6988, l='ServerLevel[world]', x=102.12, y=74.00, z=-131.10] died, message: 'Radica hit the ground too hard'
+[18Dec2024 17:08:56.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [Suit Up]
