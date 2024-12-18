@@ -1,0 +1,261 @@
+2024-05-20 02:33:41 [INFO] [ForgeModLoader] Forge Mod Loader version 6.4.49.965 for Minecraft 1.6.4 loading
+2024-05-20 02:33:41 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Usuario\curseforge\minecraft\Install\runtime\jre-legacy\windows-x64\jre-legacy
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Java classpath at launch is C:\Users\Usuario\curseforge\minecraft\Install\libraries\net\minecraftforge\minecraftforge\9.11.1.965\minecraftforge-9.11.1.965.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\net\minecraft\launchwrapper\1.8\launchwrapper-1.8.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\org\ow2\asm\asm-all\4.1\asm-all-4.1.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\org\scala-lang\scala-library\2.10.2\scala-library-2.10.2.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\org\scala-lang\scala-compiler\2.10.2\scala-compiler-2.10.2.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\argo\argo\2.25_fixed\argo-2.25_fixed.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\org\bouncycastle\bcprov-jdk15on\1.47\bcprov-jdk15on-1.47.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\com\google\guava\guava\14.0\guava-14.0.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\org\apache\commons\commons-lang3\3.1\commons-lang3-3.1.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\com\google\code\gson\gson\2.2.2\gson-2.2.2.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\org\lwjgl\lwjgl\lwjgl\2.9.0\lwjgl-2.9.0.jar;C:\Users\Usuario\curseforge\minecraft\Install\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.0\lwjgl_util-2.9.0.jar;C:\Users\Usuario\curseforge\minecraft\Install\versions\1.6.4\1.6.4.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Java library path at launch is C:\Users\Usuario\curseforge\minecraft\Install\bin\1aea6cd64b65146a7fe7a92f411c373465812e0e
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Enabling runtime deobfuscation
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Instantiating coremod class FMLCorePlugin
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Enqueued coremod FMLCorePlugin
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Instantiating coremod class FMLForgePlugin
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Enqueued coremod FMLForgePlugin
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] All fundamental core mods are successfully located
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Discovering coremods
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy 1.6.4-SortFix-1.0.jar.jar
+2024-05-20 02:33:41 [FINEST] [ForgeModLoader] Adding 1.6.4-SortFix-1.0.jar.jar to the list of known coremods, it will not be examined again
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Instantiating coremod class CorePlugin
+2024-05-20 02:33:41 [WARNING] [ForgeModLoader] The coremod net.minecraftforge.lex.sortfix.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Enqueued coremod CorePlugin
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy CodeChickenLib-universal-1.6.4-1.0.0.62.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Not found coremod data in CodeChickenLib-universal-1.6.4-1.0.0.62.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy ForgeMultipart-universal-1.6.4-1.0.0.227.jar
+2024-05-20 02:33:41 [FINEST] [ForgeModLoader] Found FMLCorePluginContainsFMLMod marker in ForgeMultipart-universal-1.6.4-1.0.0.227.jar, it will be examined later for regular @Mod instances
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Instantiating coremod class DepLoader
+2024-05-20 02:33:41 [WARNING] [ForgeModLoader] The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Enqueued coremod DepLoader
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy WorldCore-universal-1.6.4-1.1.0.17.jar
+2024-05-20 02:33:41 [FINEST] [ForgeModLoader] Adding WorldCore-universal-1.6.4-1.1.0.17.jar to the list of known coremods, it will not be examined again
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Instantiating coremod class WCFMLLoadingPlugin
+2024-05-20 02:33:41 [WARNING] [ForgeModLoader] The coremod worldcore.asm.WCFMLLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Enqueued coremod WCFMLLoadingPlugin
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy appeng-rv14-finale3-mc16x.jar
+2024-05-20 02:33:41 [FINEST] [ForgeModLoader] Found FMLCorePluginContainsFMLMod marker in appeng-rv14-finale3-mc16x.jar, it will be examined later for regular @Mod instances
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Instantiating coremod class AppEngCore
+2024-05-20 02:33:41 [WARNING] [ForgeModLoader] The coremod appeng.transformer.AppEngCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2024-05-20 02:33:41 [INFO] [ForgeModLoader] [AppEng] Core Init
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Enqueued coremod AppEngCore
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy autopackager-1.4.2.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Not found coremod data in autopackager-1.4.2.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy bdlib-mc164-1.2.3.48.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Not found coremod data in bdlib-mc164-1.2.3.48.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy BigReactors-0.3.4A2.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Not found coremod data in BigReactors-0.3.4A2.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy binnie-mods-1.8.0.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy Carpenter's Blocks v3.2.8.6 - MC 1.6.4.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Not found coremod data in Carpenter's Blocks v3.2.8.6 - MC 1.6.4.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy ChickenChunks-1.6.4-1.3.3.4-universal.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Not found coremod data in ChickenChunks-1.6.4-1.3.3.4-universal.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy CodeChickenCore-1.6.4-0.9.0.9-universal.jar
+2024-05-20 02:33:41 [FINEST] [ForgeModLoader] Adding CodeChickenCore-1.6.4-0.9.0.9-universal.jar to the list of known coremods, it will not be examined again
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Instantiating coremod class CodeChickenCorePlugin
+2024-05-20 02:33:41 [WARNING] [ForgeModLoader] The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2024-05-20 02:33:41 [INFO] [STDERR] Warning: version of ForgeMultipart-universal-1.6.4-, 1.0.0.227 is newer than request 1.0.0.219
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Enqueued coremod CodeChickenCorePlugin
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy CoFHCore-2.0.0.5.jar
+2024-05-20 02:33:41 [FINEST] [ForgeModLoader] Found FMLCorePluginContainsFMLMod marker in CoFHCore-2.0.0.5.jar, it will be examined later for regular @Mod instances
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Instantiating coremod class LoadingPlugin
+2024-05-20 02:33:41 [WARNING] [ForgeModLoader] The coremod cofh.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Enqueued coremod LoadingPlugin
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy Enchiridion-1.6.4-1.1.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Not found coremod data in Enchiridion-1.6.4-1.1.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy Evoc_1.0.0a.jar
+2024-05-20 02:33:41 [FINEST] [ForgeModLoader] Adding Evoc_1.0.0a.jar to the list of known coremods, it will not be examined again
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Instantiating coremod class CoreDescription
+2024-05-20 02:33:41 [WARNING] [ForgeModLoader] The coremod mcp.mobius.evoc.asm.CoreDescription does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Enqueued coremod CoreDescription
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy flatsigns-1.6.2-universal-1.4.0.15.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Not found coremod data in flatsigns-1.6.2-universal-1.4.0.15.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy forestry-A-2.3.1.1.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Not found coremod data in forestry-A-2.3.1.1.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy gendustry-mc164-1.1.3.fix1.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Not found coremod data in gendustry-mc164-1.1.3.fix1.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy HarvestCraftWaila-mc1.6.4-1.0.4.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Not found coremod data in HarvestCraftWaila-mc1.6.4-1.0.4.jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy HQM-The Journey (4.0.6).jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Not found coremod data in HQM-The Journey (4.0.6).jar
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy InfiniBows-1.6.4-universal-coremod-1.2.0.14.jar
+2024-05-20 02:33:41 [FINEST] [ForgeModLoader] Adding InfiniBows-1.6.4-universal-coremod-1.2.0.14.jar to the list of known coremods, it will not be examined again
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Instantiating coremod class LoadingPlugin
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] The coremod myrathi.infinibows.LoadingPlugin requested minecraft version 1.6.4 and minecraft is 1.6.4. It will be loaded.
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Enqueued coremod LoadingPlugin
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy InventoryTweaks-MC1.6.2-1.56-b77.jar
+2024-05-20 02:33:41 [FINEST] [ForgeModLoader] Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-MC1.6.2-1.56-b77.jar, it will be examined later for regular @Mod instances
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Instantiating coremod class FMLPlugin
+2024-05-20 02:33:41 [WARNING] [ForgeModLoader] The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Enqueued coremod FMLPlugin
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Examining for coremod candidacy JadedLibs-1.6.4-1.0.4.jar
+2024-05-20 02:33:41 [FINEST] [ForgeModLoader] Adding JadedLibs-1.6.4-1.0.4.jar to the list of known coremods, it will not be examined again
+2024-05-20 02:33:41 [FINE] [ForgeModLoader] Instantiating coremod class JadedLibsCorePlugin
+2024-05-20 02:33:41 [WARNING] [ForgeModLoader] The coremod com.jadedpacks.jadedlibs.JadedLibsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2024-05-20 02:33:41 [INFO] [STDOUT] Downloading file '1.6.4-SortFix-1.0.jar' from url 'https://github.com/JadedPacks/Agrarian-Skies/raw/master/modz/1.6.4-SortFix-1.0.jar
+2024-05-20 02:33:58 [INFO] [STDERR] java.lang.RuntimeException: Download error
+2024-05-20 02:33:58 [INFO] [STDERR] 	at com.jadedpacks.jadedlibs.JadedLibsInst.download(JadedLibsInst.java:92)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at com.jadedpacks.jadedlibs.JadedLibsInst.loadDeps(JadedLibsInst.java:59)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at com.jadedpacks.jadedlibs.JadedLibsInst.load(JadedLibsInst.java:38)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at com.jadedpacks.jadedlibs.JadedLibsCorePlugin.load(JadedLibsCorePlugin.java:42)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at com.jadedpacks.jadedlibs.JadedLibsCorePlugin.<init>(JadedLibsCorePlugin.java:12)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at java.lang.Class.newInstance(Class.java:442)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:427)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:310)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:212)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:124)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:111)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at net.minecraft.launchwrapper.Launch.main(Launch.java:27)
+2024-05-20 02:33:58 [INFO] [STDERR] Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2661)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2583)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1769)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at com.jadedpacks.jadedlibs.JadedLibsInst.download(JadedLibsInst.java:83)
+2024-05-20 02:33:58 [INFO] [STDERR] 	... 18 more
+2024-05-20 02:33:58 [INFO] [STDERR] Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.validator.Validator.validate(Validator.java:260)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+2024-05-20 02:33:58 [INFO] [STDERR] 	... 33 more
+2024-05-20 02:33:58 [INFO] [STDERR] Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+2024-05-20 02:33:58 [INFO] [STDERR] 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+2024-05-20 02:33:58 [INFO] [STDERR] 	... 39 more
+2024-05-20 02:33:58 [SEVERE] [ForgeModLoader] An error occurred trying to configure the minecraft home at C:\Users\Usuario\curseforge\minecraft\Instances\Agrarian Skies for Forge Mod Loader
+java.lang.RuntimeException: Download error
+	at com.jadedpacks.jadedlibs.JadedLibsInst.download(JadedLibsInst.java:92)
+	at com.jadedpacks.jadedlibs.JadedLibsInst.loadDeps(JadedLibsInst.java:59)
+	at com.jadedpacks.jadedlibs.JadedLibsInst.load(JadedLibsInst.java:38)
+	at com.jadedpacks.jadedlibs.JadedLibsCorePlugin.load(JadedLibsCorePlugin.java:42)
+	at com.jadedpacks.jadedlibs.JadedLibsCorePlugin.<init>(JadedLibsCorePlugin.java:12)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at java.lang.Class.newInstance(Class.java:442)
+	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:427)
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:310)
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:212)
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:124)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:111)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:27)
+Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2661)
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2583)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1769)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+	at com.jadedpacks.jadedlibs.JadedLibsInst.download(JadedLibsInst.java:83)
+	... 18 more
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+	at sun.security.validator.Validator.validate(Validator.java:260)
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+	... 33 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+	... 39 more
+2024-05-20 02:33:58 [SEVERE] [ForgeModLoader] Unable to launch
+java.lang.RuntimeException: Download error
+	at com.jadedpacks.jadedlibs.JadedLibsInst.download(JadedLibsInst.java:92)
+	at com.jadedpacks.jadedlibs.JadedLibsInst.loadDeps(JadedLibsInst.java:59)
+	at com.jadedpacks.jadedlibs.JadedLibsInst.load(JadedLibsInst.java:38)
+	at com.jadedpacks.jadedlibs.JadedLibsCorePlugin.load(JadedLibsCorePlugin.java:42)
+	at com.jadedpacks.jadedlibs.JadedLibsCorePlugin.<init>(JadedLibsCorePlugin.java:12)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at java.lang.Class.newInstance(Class.java:442)
+	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:427)
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:310)
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:212)
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:124)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:111)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:27)
+Caused by: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2661)
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2583)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1769)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+	at com.jadedpacks.jadedlibs.JadedLibsInst.download(JadedLibsInst.java:83)
+	... 18 more
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+	at sun.security.validator.Validator.validate(Validator.java:260)
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+	... 33 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+	... 39 more
