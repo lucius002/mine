@@ -379,81 +379,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/mysterious_gift": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 18:09:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:09:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:09:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:09:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:09:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:09:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:09:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:09:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:09:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:09:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:09:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:09:50 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2024-12-18 17:12:04 +0000"
+      "coded_trigger": "2024-12-18 16:48:02 +0000"
     },
     "done": true
   },
@@ -463,9 +391,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_knowledge": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "coded_trigger": "2024-12-18 17:57:15 +0000"
+      "from_undead": "2024-12-18 17:12:04 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2024-12-18 17:12:04 +0000"
     },
     "done": true
   },
@@ -481,15 +415,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/mysterious_gift": {
+  "tombstone:adventure/use_knowledge": {
     "criteria": {
-      "coded_trigger": "2024-12-18 16:48:02 +0000"
+      "coded_trigger": "2024-12-18 17:57:15 +0000"
     },
     "done": true
   },
-  "enemyexpansion:vampire_slayer": {
+  "endrem:main/root": {
     "criteria": {
-      "vampire_slayer_0": "2024-12-18 17:12:04 +0000"
+      "lost_eye": "2024-12-18 18:59:03 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-18 18:59:03 +0000"
     },
     "done": true
   },

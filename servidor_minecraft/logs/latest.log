@@ -924,3 +924,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 18:19:52.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
 [18Dec2024 18:29:29.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Živorad'/36617, l='ServerLevel[world]', x=159.69, y=73.00, z=-136.46] died, message: 'Živorad hit the ground too hard'
 [18Dec2024 18:32:06.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jovanka'/37062, l='ServerLevel[world]', x=159.69, y=73.00, z=-136.46] died, message: 'Jovanka hit the ground too hard'
+[18Dec2024 18:41:39.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Sky of Beginning]
+[18Dec2024 18:54:59.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Survival Mode]
+[18Dec2024 18:55:10.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ljubinka'/41114, l='ServerLevel[world]', x=159.69, y=73.00, z=-136.46] died, message: 'Ljubinka hit the ground too hard'
+[18Dec2024 18:56:15.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:37703] logged in with entity id 41383 at (5.2182519623260095, 22.0, -148.26118134344387)
+[18Dec2024 18:56:15.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[18Dec2024 18:56:15.600] [Server thread/INFO] [Jade/]: Syncing config to Alejaso (d6a2321d-3bf9-3ff8-b584-ee9e21a362c7)
+[18Dec2024 18:56:23.303] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mirko'/41635, l='ServerLevel[world]', x=163.25, y=65.00, z=-132.79] died, message: 'Mirko hit the ground too hard'
+[18Dec2024 18:56:23.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Boško'/41636, l='ServerLevel[world]', x=164.31, y=65.00, z=-132.83] died, message: 'Boško hit the ground too hard'
+[18Dec2024 18:57:35.501] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b6f74c[id=<null>,name=LeanCapo5,properties={},legacy=false] (/127.59.250.138:39617) lost connection: Disconnected
+[18Dec2024 18:57:46.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LeanCapo5[/127.59.250.138:49361] logged in with entity id 42262 at (159.7893436060529, 40.0, -141.33332053045717)
+[18Dec2024 18:57:46.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 joined the game
+[18Dec2024 18:57:46.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LeanCapo5 has made the advancement [Mysterious Gift]
+[18Dec2024 18:57:46.586] [Server thread/INFO] [Jade/]: Syncing config to LeanCapo5 (06738961-fa64-3977-ae29-356d19acb3bb)
+[18Dec2024 18:59:03.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Need A Map?]
+[18Dec2024 18:59:03.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [The Beginning of An Adventure]

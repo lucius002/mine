@@ -146,6 +146,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "quark:glimmering_weald": "2024-12-18 03:19:56 +0000",
+      "minecraft:windswept_hills": "2024-12-18 18:58:40 +0000",
       "minecraft:beach": "2024-12-18 18:03:37 +0000",
       "minecraft:river": "2024-12-18 02:15:41 +0000",
       "minecraft:dripstone_caves": "2024-12-18 02:39:23 +0000",
@@ -349,6 +350,7 @@
       "minecraft:witch": "2024-12-18 03:05:08 +0000",
       "minecraft:cave_spider": "2024-12-18 03:05:31 +0000",
       "minecraft:silverfish": "2024-12-18 03:17:49 +0000",
+      "minecraft:enderman": "2024-12-18 18:57:10 +0000",
       "minecraft:zombie": "2024-12-18 03:00:29 +0000"
     },
     "done": false
@@ -419,6 +421,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-12-18 18:41:39 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2024-12-18 17:51:08 +0000"
@@ -431,9 +439,21 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-12-18 18:41:39 +0000"
+    },
+    "done": true
+  },
   "touhou_little_maid:base/pickup_power_point": {
     "criteria": {
       "maid_event": "2024-12-18 17:10:34 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-12-18 18:41:39 +0000"
     },
     "done": true
   },
@@ -470,6 +490,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-18 17:18:15 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-12-18 18:41:39 +0000"
     },
     "done": true
   },
