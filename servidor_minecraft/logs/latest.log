@@ -1008,3 +1008,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 20:15:59.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
 [18Dec2024 20:16:01.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Survival Mode]
 [18Dec2024 20:16:01.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
+[18Dec2024 20:25:09.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Survival Mode]
+[18Dec2024 20:26:09.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
+[18Dec2024 20:26:41.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Survival Mode]
+[18Dec2024 20:31:16.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
