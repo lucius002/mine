@@ -206,6 +206,7 @@
       "cooked_mutton": "2024-12-18 02:13:47 +0000",
       "bread": "2024-12-18 18:03:34 +0000",
       "golden_carrot": "2024-12-18 02:52:38 +0000",
+      "cooked_chicken": "2024-12-18 19:03:15 +0000",
       "enchanted_golden_apple": "2024-12-15 20:30:36 +0000"
     },
     "done": false
@@ -421,11 +422,23 @@
     },
     "done": true
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2024-12-18 19:09:20 +0000"
+    },
+    "done": false
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2024-12-18 18:41:39 +0000"
     },
     "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2024-12-18 19:09:20 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
@@ -463,6 +476,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-12-18 19:01:50 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_plains": "2024-12-18 17:42:31 +0000"
@@ -478,6 +497,12 @@
   "touhou_little_maid:base/kill_maid_fairy": {
     "criteria": {
       "killed_entity": "2024-12-18 17:10:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-18 19:02:24 +0000"
     },
     "done": true
   },

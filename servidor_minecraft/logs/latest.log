@@ -939,3 +939,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 18:57:46.586] [Server thread/INFO] [Jade/]: Syncing config to LeanCapo5 (06738961-fa64-3977-ae29-356d19acb3bb)
 [18Dec2024 18:59:03.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Need A Map?]
 [18Dec2024 18:59:03.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [The Beginning of An Adventure]
+[18Dec2024 19:02:24.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Who You Gonna Call?]
+[18Dec2024 19:03:39.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LeanCapo5> 164 -130
+[18Dec2024 19:06:15.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sava'/47546, l='ServerLevel[world]', x=102.12, y=74.00, z=-131.10] died, message: 'Sava hit the ground too hard'
+[18Dec2024 19:06:24.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marinko'/47580, l='ServerLevel[world]', x=163.25, y=65.00, z=-132.79] died, message: 'Marinko hit the ground too hard'
