@@ -511,15 +511,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_book": {
+  "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
-      "cave_book": "2024-12-19 02:54:11 +0000"
+      "bestiary": "2024-12-19 02:32:03 +0000"
     },
     "done": true
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-12-19 02:38:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2024-12-19 02:45:44 +0000"
     },
     "done": true
   },
@@ -535,15 +541,21 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_if_dragon": {
+  "alexscaves:alexscaves/cave_book": {
     "criteria": {
-      "killed_ice_dragon": "2024-12-19 02:45:44 +0000"
+      "cave_book": "2024-12-19 02:54:11 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_flute": {
+  "betterdungeons:all_dungeons": {
     "criteria": {
-      "bestiary": "2024-12-19 02:32:03 +0000"
+      "in_better_monster_room": "2024-12-19 03:09:40 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-19 03:09:40 +0000"
     },
     "done": true
   },

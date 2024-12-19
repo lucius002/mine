@@ -5190,3 +5190,67 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Dec2024 02:59:10.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler was struck by lightning
 [19Dec2024 02:59:10.417] [Server thread/INFO] [tombstone/]: The player nightycrawler has successfully been saved
 [19Dec2024 02:59:11.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[19Dec2024 02:59:23.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was slain by Equestrian
+[19Dec2024 02:59:23.881] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 02:59:25.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nightycrawler was kicked for floating too long!
+[19Dec2024 02:59:25.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nightycrawler lost connection: Flying is not enabled on this server
+[19Dec2024 02:59:25.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler left the game
+[19Dec2024 02:59:28.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[19Dec2024 02:59:42.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nightycrawler[/127.126.216.247:40103] logged in with entity id 78262 at (-647.5757682230327, 100.9647278522768, -229.18436826898528)
+[19Dec2024 02:59:42.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler joined the game
+[19Dec2024 02:59:42.168] [Server thread/INFO] [Jade/]: Syncing config to nightycrawler (53c7ffe4-2674-3dad-808f-18e89b78079f)
+[19Dec2024 02:59:50.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 54.500000, 68.500000, -538.500000]
+[19Dec2024 02:59:57.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nightycrawler was kicked for floating too long!
+[19Dec2024 02:59:57.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nightycrawler lost connection: Flying is not enabled on this server
+[19Dec2024 02:59:57.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler left the game
+[19Dec2024 03:00:11.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nightycrawler[/127.126.216.247:43901] logged in with entity id 78943 at (-647.5757682230327, 88.8624884954371, -229.18436826898528)
+[19Dec2024 03:00:11.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler joined the game
+[19Dec2024 03:00:11.097] [Server thread/INFO] [Jade/]: Syncing config to nightycrawler (53c7ffe4-2674-3dad-808f-18e89b78079f)
+[19Dec2024 03:00:19.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black died because of Sentry
+[19Dec2024 03:00:19.830] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 03:00:22.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nightycrawler was kicked for floating too long!
+[19Dec2024 03:00:22.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nightycrawler lost connection: Flying is not enabled on this server
+[19Dec2024 03:00:22.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler left the game
+[19Dec2024 03:00:33.448] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Igor'/79378, l='ServerLevel[world]', x=101.47, y=74.00, z=-131.08] died, message: 'Igor hit the ground too hard'
+[19Dec2024 03:00:37.231] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nightycrawler[/127.126.216.247:60875] logged in with entity id 79518 at (-647.5757682230327, 75.01247832962868, -229.18436826898528)
+[19Dec2024 03:00:37.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler joined the game
+[19Dec2024 03:00:37.427] [Server thread/INFO] [Jade/]: Syncing config to nightycrawler (53c7ffe4-2674-3dad-808f-18e89b78079f)
+[19Dec2024 03:00:39.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 112.500000, 63.500000, -532.500000]
+[19Dec2024 03:01:37.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -635.500000, 116.500000, -269.500000]
+[19Dec2024 03:08:14.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black fell from a high place
+[19Dec2024 03:08:14.058] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 03:08:27.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black was kicked for floating too long!
+[19Dec2024 03:08:27.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Flying is not enabled on this server
+[19Dec2024 03:08:27.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
+[19Dec2024 03:08:43.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciu_black[/127.43.98.180:42571] logged in with entity id 85514 at (-632.288142393795, 96.09878705055013, -271.0674252018327)
+[19Dec2024 03:08:43.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black joined the game
+[19Dec2024 03:08:43.903] [Server thread/INFO] [Jade/]: Syncing config to luciu_black (48812f9b-dcef-3414-958e-f80113c926fd)
+[19Dec2024 03:09:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Quite the Renovation]
+[19Dec2024 03:10:09.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black drowned whilst trying to escape Skeleton
+[19Dec2024 03:10:09.153] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 03:10:23.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Disconnected
+[19Dec2024 03:10:23.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[19Dec2024 03:10:37.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -672.500000, 60.500000, -163.500000]
+[19Dec2024 03:10:43.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:52425] logged in with entity id 86757 at (-767.7594061844986, -23.0, -608.52286749934)
+[19Dec2024 03:10:43.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[19Dec2024 03:10:43.074] [Server thread/INFO] [Jade/]: Syncing config to Alejaso (d6a2321d-3bf9-3ff8-b584-ee9e21a362c7)
+[19Dec2024 03:10:52.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has completed the challenge [Yo mama so fat, she digests her fetuses]
+[19Dec2024 03:10:52.761] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/87089, l='ServerLevel[world]', x=-751.50, y=72.00, z=-124.50]
+[19Dec2024 03:12:14.353] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/87885, l='ServerLevel[world]', x=-749.50, y=72.00, z=-124.50]
+[19Dec2024 03:13:29.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso moved wrongly!
+[19Dec2024 03:13:43.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -635.500000, 116.500000, -269.500000]
+[19Dec2024 03:13:44.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso moved wrongly!
+[19Dec2024 03:13:59.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso moved wrongly!
+[19Dec2024 03:14:13.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black fell from a high place
+[19Dec2024 03:14:13.653] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 03:14:26.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black was kicked for floating too long!
+[19Dec2024 03:14:26.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Flying is not enabled on this server
+[19Dec2024 03:14:26.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
+[19Dec2024 03:14:42.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciu_black[/127.43.98.180:58025] logged in with entity id 89559 at (-634.5578395058427, 97.75379024164019, -263.72349127649426)
+[19Dec2024 03:14:42.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black joined the game
+[19Dec2024 03:14:42.492] [Server thread/INFO] [Jade/]: Syncing config to luciu_black (48812f9b-dcef-3414-958e-f80113c926fd)
+[19Dec2024 03:15:05.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kenan'/89688, l='ServerLevel[world]', x=159.79, y=73.00, z=-137.52] died, message: 'Kenan hit the ground too hard'
+[19Dec2024 03:15:50.561] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/90267, l='ServerLevel[world]', x=-689.50, y=73.00, z=-747.50]
+[19Dec2024 03:15:51.220] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/90268, l='ServerLevel[world]', x=-632.50, y=72.00, z=-718.50]
+[19Dec2024 03:18:46.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 128.500000, 65.500000, -527.500000]
+[19Dec2024 03:19:27.450] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vojin'/92421, l='ServerLevel[world]', x=101.47, y=74.00, z=-131.08] died, message: 'Vojin hit the ground too hard'
