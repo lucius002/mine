@@ -153,6 +153,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-18 19:35:38 +0000",
       "minecraft:taiga": "2024-12-18 19:38:33 +0000",
+      "minecraft:frozen_river": "2024-12-19 03:42:43 +0000",
       "minecraft:birch_forest": "2024-12-18 17:32:19 +0000",
       "minecraft:beach": "2024-12-18 19:36:11 +0000",
       "minecraft:dark_forest": "2024-12-18 19:31:30 +0000",
@@ -254,6 +255,7 @@
       "sweet_berries": "2024-12-19 01:39:01 +0000",
       "cooked_beef": "2024-12-18 03:46:10 +0000",
       "tropical_fish": "2024-12-19 01:59:21 +0000",
+      "apple": "2024-12-19 03:42:26 +0000",
       "cooked_cod": "2024-12-18 17:22:56 +0000",
       "bread": "2024-12-18 17:58:19 +0000",
       "rotten_flesh": "2024-12-18 17:52:25 +0000",
@@ -556,6 +558,18 @@
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2024-12-19 03:09:40 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-19 03:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2024-12-19 03:41:18 +0000"
     },
     "done": true
   },
