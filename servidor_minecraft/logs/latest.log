@@ -5120,3 +5120,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Dec2024 02:27:38.159] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
 [19Dec2024 02:28:00.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Dread Ghoul
 [19Dec2024 02:28:00.206] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 02:28:37.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Dread Ghoul
+[19Dec2024 02:28:37.412] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 02:29:23.376] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/55999, l='ServerLevel[world]', x=-988.50, y=74.00, z=-308.50]
+[19Dec2024 02:29:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Dread Knight
+[19Dec2024 02:29:33.722] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 02:31:36.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Dread Knight
+[19Dec2024 02:31:36.334] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 02:32:00.395] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/58001, l='ServerLevel[world]', x=-947.50, y=69.00, z=-319.50]
+[19Dec2024 02:32:03.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [The Song of the Dragons]
+[19Dec2024 02:32:08.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Dread Ghoul
+[19Dec2024 02:32:08.833] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 02:32:30.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Dread Knight
+[19Dec2024 02:32:30.966] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 02:33:01.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Dread Knight
+[19Dec2024 02:33:01.941] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 02:38:27.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Cover Me with Diamonds]
