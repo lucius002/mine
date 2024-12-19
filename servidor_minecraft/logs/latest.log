@@ -866,3 +866,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 01:03:15.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciu_black[/127.43.98.180:48103] logged in with entity id 2806 at (95.30000001192093, 104.0, -631.3000000119209)
 [19Dec2024 01:03:15.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black joined the game
 [19Dec2024 01:03:15.832] [Server thread/INFO] [Jade/]: Syncing config to luciu_black (48812f9b-dcef-3414-958e-f80113c926fd)
+[19Dec2024 01:16:01.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:58755] logged in with entity id 5468 at (-216.91816690700844, -53.0, -238.38026609667543)
+[19Dec2024 01:16:01.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[19Dec2024 01:16:01.964] [Server thread/INFO] [Jade/]: Syncing config to Alejaso (d6a2321d-3bf9-3ff8-b584-ee9e21a362c7)
+[19Dec2024 01:16:18.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hajrudin'/5971, l='ServerLevel[world]', x=159.79, y=73.00, z=-137.52] died, message: 'Hajrudin hit the ground too hard'
