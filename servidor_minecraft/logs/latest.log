@@ -5461,3 +5461,71 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Dec2024 04:51:13.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was doomed to fall
 [19Dec2024 04:51:13.406] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
 [19Dec2024 04:51:20.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -1008.500000, -26.500000, -506.500000]
+[19Dec2024 04:52:09.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 128.500000, 65.500000, -527.500000]
+[19Dec2024 04:53:00.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to Alejaso]
+[19Dec2024 04:53:42.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 128.500000, 65.500000, -527.500000]
+[19Dec2024 04:54:11.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to Alejaso]
+[19Dec2024 04:54:48.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Scarlet Persecutor
+[19Dec2024 04:54:48.343] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:55:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black fell from a high place
+[19Dec2024 04:55:37.650] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 04:55:45.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -853.500000, -10.500000, -542.500000]
+[19Dec2024 04:57:54.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to Alejaso]
+[19Dec2024 04:59:40.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Mother of Dragons]
+[19Dec2024 05:00:15.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Radivoj'/159564, l='ServerLevel[world]', x=101.47, y=74.00, z=-131.08] died, message: 'Radivoj hit the ground too hard'
+[19Dec2024 05:00:43.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 128.500000, 65.500000, -527.500000]
+[19Dec2024 05:00:52.679] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Veljko'/160129, l='ServerLevel[world]', x=159.69, y=73.00, z=-136.46] died, message: 'Veljko hit the ground too hard'
+[19Dec2024 05:01:04.434] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 05:01:07.531] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 05:06:58.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -635.500000, 116.500000, -269.500000]
+[19Dec2024 05:07:16.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 128.500000, 65.500000, -527.500000]
+[19Dec2024 05:12:19.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Disconnected
+[19Dec2024 05:12:19.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[19Dec2024 05:12:26.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -635.500000, 116.500000, -269.500000]
+[19Dec2024 05:13:53.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 128.500000, 65.500000, -527.500000]
+[19Dec2024 05:15:25.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Boško'/169618, l='ServerLevel[world]', x=102.12, y=74.00, z=-131.10] died, message: 'Boško hit the ground too hard'
+[19Dec2024 05:23:42.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Disconnected
+[19Dec2024 05:23:42.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
+[19Dec2024 05:24:08.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Dec2024 05:24:08.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Dec2024 05:24:08.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Dec2024 05:24:08.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Dec2024 05:24:08.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Dec2024 05:24:08.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Dec2024 05:24:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[19Dec2024 05:24:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[19Dec2024 05:24:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[19Dec2024 05:24:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[19Dec2024 05:24:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[19Dec2024 05:24:08.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[19Dec2024 05:24:08.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[19Dec2024 05:24:08.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[19Dec2024 05:24:08.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[19Dec2024 05:24:08.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[19Dec2024 05:24:08.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[19Dec2024 05:24:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[19Dec2024 05:24:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[19Dec2024 05:24:08.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[19Dec2024 05:24:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[19Dec2024 05:24:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Dec2024 05:24:08.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[19Dec2024 05:24:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Dec2024 05:24:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Dec2024 05:24:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[19Dec2024 05:24:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[19Dec2024 05:24:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[19Dec2024 05:24:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[19Dec2024 05:24:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[19Dec2024 05:24:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[19Dec2024 05:24:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[19Dec2024 05:24:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[19Dec2024 05:24:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[19Dec2024 05:24:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[19Dec2024 05:24:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[19Dec2024 05:24:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[19Dec2024 05:24:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[19Dec2024 05:24:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[19Dec2024 05:24:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[19Dec2024 05:24:08.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Dec2024 05:24:08.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[19Dec2024 05:24:08.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
