@@ -151,12 +151,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-19 01:32:45 +0000",
+      "minecraft:taiga": "2024-12-19 01:31:31 +0000",
       "minecraft:birch_forest": "2024-12-18 17:31:46 +0000",
       "minecraft:windswept_hills": "2024-12-18 03:29:28 +0000",
       "minecraft:river": "2024-12-18 02:20:13 +0000",
       "minecraft:dripstone_caves": "2024-12-18 16:48:14 +0000",
       "minecraft:forest": "2024-12-18 00:19:35 +0000",
       "minecraft:lush_caves": "2024-12-18 17:52:51 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-19 01:31:23 +0000",
       "minecraft:savanna": "2024-12-18 03:34:06 +0000",
       "minecraft:plains": "2024-12-18 02:27:27 +0000"
     },
@@ -364,81 +367,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/mysterious_gift": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 18:08:50 +0000"
+      "coded_trigger": "2024-12-18 16:46:49 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "enemyexpansion:vampire_slayer": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 18:08:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:08:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:08:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:08:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:08:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:08:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:08:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:08:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:08:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:08:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 18:08:50 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2024-12-18 17:08:56 +0000"
+      "vampire_slayer_0": "2024-12-18 16:56:44 +0000"
     },
     "done": true
   },
@@ -448,9 +385,15 @@
     },
     "done": true
   },
-  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+  "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
-      "friendsandfoes:complete_hide_and_seek_game": "2024-12-18 17:51:26 +0000"
+      "has_item": "2024-12-18 17:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-18 17:08:56 +0000"
     },
     "done": true
   },
@@ -460,13 +403,13 @@
     },
     "done": true
   },
-  "mca:recipes/misc/rose_gold_dust": {
+  "endrem:main/root": {
     "criteria": {
-      "has_item": "2024-12-18 17:05:10 +0000"
+      "lost_eye": "2024-12-18 17:43:36 +0000"
     },
     "done": true
   },
-  "endrem:main/root": {
+  "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2024-12-18 17:43:36 +0000"
     },
@@ -484,21 +427,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/mysterious_gift": {
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
     "criteria": {
-      "coded_trigger": "2024-12-18 16:46:49 +0000"
+      "friendsandfoes:complete_hide_and_seek_game": "2024-12-18 17:51:26 +0000"
     },
     "done": true
   },
-  "enemyexpansion:vampire_slayer": {
+  "tombstone:adventure/ashes_and_bones": {
     "criteria": {
-      "vampire_slayer_0": "2024-12-18 16:56:44 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/lost_eye": {
-    "criteria": {
-      "lost_eye": "2024-12-18 17:43:36 +0000"
+      "coded_trigger": "2024-12-19 01:25:21 +0000"
     },
     "done": true
   },

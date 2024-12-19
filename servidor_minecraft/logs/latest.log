@@ -870,3 +870,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 01:16:01.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
 [19Dec2024 01:16:01.964] [Server thread/INFO] [Jade/]: Syncing config to Alejaso (d6a2321d-3bf9-3ff8-b584-ee9e21a362c7)
 [19Dec2024 01:16:18.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hajrudin'/5971, l='ServerLevel[world]', x=159.79, y=73.00, z=-137.52] died, message: 'Hajrudin hit the ground too hard'
+[19Dec2024 01:17:50.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Zombie
+[19Dec2024 01:17:50.581] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 01:20:56.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Diamond Termite
+[19Dec2024 01:20:56.913] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 01:23:19.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nightycrawler[/127.126.216.247:42851] logged in with entity id 11092 at (-38.69688278538045, 49.0, -304.80440591997046)
+[19Dec2024 01:23:19.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler joined the game
+[19Dec2024 01:23:19.252] [Server thread/INFO] [Jade/]: Syncing config to nightycrawler (53c7ffe4-2674-3dad-808f-18e89b78079f)
+[19Dec2024 01:24:55.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-265, y=-15, z=-204} BlockPos{x=-266, y=-13, z=-203}
+[19Dec2024 01:25:21.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [Ashes 'n Bones]
+[19Dec2024 01:29:58.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Zombie
+[19Dec2024 01:29:58.375] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 01:31:13.240] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ognjen'/16095, l='ServerLevel[world]', x=159.79, y=73.00, z=-137.52] died, message: 'Ognjen hit the ground too hard'
+[19Dec2024 01:31:25.060] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[19Dec2024 01:31:25.410] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[19Dec2024 01:31:25.412] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[19Dec2024 01:31:25.413] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[19Dec2024 01:31:25.413] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[19Dec2024 01:31:25.413] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[19Dec2024 01:31:25.422] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[19Dec2024 01:31:31.550] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[19Dec2024 01:31:31.551] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[19Dec2024 01:33:59.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [Ambush]
+[19Dec2024 01:33:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [World of illusion]
