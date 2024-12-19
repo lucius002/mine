@@ -251,6 +251,7 @@
       "cooked_mutton": "2024-12-18 02:44:28 +0000",
       "sweet_berries": "2024-12-19 01:39:01 +0000",
       "cooked_beef": "2024-12-18 03:46:10 +0000",
+      "tropical_fish": "2024-12-19 01:59:21 +0000",
       "cooked_cod": "2024-12-18 17:22:56 +0000",
       "bread": "2024-12-18 17:58:19 +0000",
       "rotten_flesh": "2024-12-18 17:52:25 +0000",
@@ -471,78 +472,6 @@
       "coded_trigger": "2024-12-18 19:50:46 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:42:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:42:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:42:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:42:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:42:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:42:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:42:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:42:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:42:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:42:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:42:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 01:42:22 +0000"
-    },
-    "done": false
   },
   "tombstone:adventure/use_feather_fall": {
     "criteria": {
