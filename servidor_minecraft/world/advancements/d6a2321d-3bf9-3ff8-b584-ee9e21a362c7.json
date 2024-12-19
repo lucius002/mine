@@ -163,6 +163,7 @@
       "minecraft:forest": "2024-12-18 01:37:55 +0000",
       "minecraft:lush_caves": "2024-12-18 19:13:32 +0000",
       "minecraft:ocean": "2024-12-18 19:40:06 +0000",
+      "minecraft:snowy_beach": "2024-12-19 02:44:09 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 02:26:21 +0000",
       "minecraft:plains": "2024-12-18 03:23:32 +0000"
     },
@@ -507,6 +508,12 @@
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2024-12-19 02:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-19 02:38:27 +0000"
     },
     "done": true
   },

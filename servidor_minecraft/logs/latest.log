@@ -5136,3 +5136,27 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Dec2024 02:33:01.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Dread Knight
 [19Dec2024 02:33:01.941] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
 [19Dec2024 02:38:27.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Cover Me with Diamonds]
+[19Dec2024 02:39:03.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mirsada'/62365, l='ServerLevel[world]', x=159.69, y=73.00, z=-136.46] died, message: 'Mirsada hit the ground too hard'
+[19Dec2024 02:44:31.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19Dec2024 02:44:33.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Ice Dragon
+[19Dec2024 02:44:33.247] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 02:45:14.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was frozen by Ice Dragon
+[19Dec2024 02:45:14.486] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 02:45:41.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19Dec2024 02:45:44.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Dragonslayer]
+[19Dec2024 02:45:58.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19Dec2024 02:46:16.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[19Dec2024 02:46:36.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19Dec2024 02:46:56.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[19Dec2024 02:47:00.988] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[19Dec2024 02:47:14.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
+[19Dec2024 02:47:17.289] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[19Dec2024 02:47:17.289] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[19Dec2024 02:47:17.290] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[19Dec2024 02:47:17.290] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[19Dec2024 02:47:17.290] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[19Dec2024 02:47:17.296] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[19Dec2024 02:47:17.516] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[19Dec2024 02:47:17.516] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[19Dec2024 02:47:36.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19Dec2024 02:48:11.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
