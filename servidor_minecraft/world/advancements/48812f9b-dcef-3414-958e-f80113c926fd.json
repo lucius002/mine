@@ -579,5 +579,11 @@
     },
     "done": true
   },
+  "touhou_little_maid:favorability/maid_sleep": {
+    "criteria": {
+      "maid_event": "2024-12-19 03:20:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -5254,3 +5254,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Dec2024 03:15:51.220] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/90268, l='ServerLevel[world]', x=-632.50, y=72.00, z=-718.50]
 [19Dec2024 03:18:46.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 128.500000, 65.500000, -527.500000]
 [19Dec2024 03:19:27.450] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vojin'/92421, l='ServerLevel[world]', x=101.47, y=74.00, z=-131.08] died, message: 'Vojin hit the ground too hard'
+[19Dec2024 03:20:14.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Don't Let The Bed Bugs Bite]
+[19Dec2024 03:20:18.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19Dec2024 03:20:36.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2903ms or 58 ticks behind
+[19Dec2024 03:20:55.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19Dec2024 03:21:12.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19Dec2024 03:21:29.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[19Dec2024 03:21:53.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Dec2024 03:22:05.482] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tomislav'/94151, l='ServerLevel[world]', x=101.47, y=74.00, z=-131.08] died, message: 'Tomislav hit the ground too hard'
+[19Dec2024 03:22:11.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19Dec2024 03:22:32.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19Dec2024 03:22:49.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[19Dec2024 03:27:25.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -635.500000, 116.500000, -269.500000]
+[19Dec2024 03:28:44.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 128.500000, 65.500000, -527.500000]
+[19Dec2024 03:29:02.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has reached the goal [Little Hunter]
+[19Dec2024 03:29:47.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was blown up by Intruder
+[19Dec2024 03:29:47.485] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
