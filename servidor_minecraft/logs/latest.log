@@ -5284,3 +5284,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Dec2024 03:41:28.485] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
 [19Dec2024 03:41:46.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Skeleton
 [19Dec2024 03:41:46.684] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 03:53:38.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has made the advancement [Ambush]
+[19Dec2024 03:57:16.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Veselinka'/113654, l='ServerLevel[world]', x=101.47, y=74.00, z=-131.08] died, message: 'Veselinka hit the ground too hard'
+[19Dec2024 03:58:24.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has reached the goal [Troll Hunter]
+[19Dec2024 03:58:35.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jasmina'/114113, l='ServerLevel[world]', x=159.69, y=73.00, z=-136.46] died, message: 'Jasmina hit the ground too hard'

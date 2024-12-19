@@ -327,6 +327,7 @@
       "minecraft:skeleton": "2024-12-18 03:01:34 +0000",
       "minecraft:spider": "2024-12-18 19:51:30 +0000",
       "quark:forgotten": "2024-12-18 19:59:17 +0000",
+      "minecraft:witch": "2024-12-19 03:53:38 +0000",
       "minecraft:cave_spider": "2024-12-18 18:09:02 +0000",
       "minecraft:silverfish": "2024-12-18 19:14:01 +0000",
       "minecraft:zombie": "2024-12-18 02:31:41 +0000"
@@ -564,6 +565,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2024-12-19 03:39:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 03:53:38 +0000"
     },
     "done": true
   },
