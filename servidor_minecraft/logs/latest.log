@@ -5295,3 +5295,169 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Dec2024 04:09:42.992] [pool-7-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=-821, y=70, z=-1195}
 [19Dec2024 04:09:43.739] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-821, y=70, z=-1195} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
 [19Dec2024 04:09:43.739] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-821, y=70, z=-1195}
+[19Dec2024 04:16:33.481] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Leposava'/122103, l='ServerLevel[world]', x=101.47, y=74.00, z=-131.08] died, message: 'Leposava hit the ground too hard'
+[19Dec2024 04:17:42.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Izet'/122467, l='ServerLevel[world]', x=159.79, y=73.00, z=-137.52] died, message: 'Izet hit the ground too hard'
+[19Dec2024 04:17:51.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso burned to death
+[19Dec2024 04:17:51.340] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:20:10.485] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sava'/124203, l='ServerLevel[world]', x=159.79, y=73.00, z=-137.52] died, message: 'Sava hit the ground too hard'
+[19Dec2024 04:22:44.898] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d3655d4[id=<null>,name=luciu_black,properties={},legacy=false] (/127.43.98.180:56547) lost connection: Disconnected
+[19Dec2024 04:23:11.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciu_black[/127.43.98.180:41069] logged in with entity id 125750 at (95.69999998807907, 104.0, -631.3000000119209)
+[19Dec2024 04:23:11.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black joined the game
+[19Dec2024 04:23:11.186] [Server thread/INFO] [Jade/]: Syncing config to luciu_black (48812f9b-dcef-3414-958e-f80113c926fd)
+[19Dec2024 04:24:18.560] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/126535, l='ServerLevel[world]', x=-688.50, y=73.00, z=-746.50]
+[19Dec2024 04:25:43.163] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/127540, l='ServerLevel[world]', x=-688.50, y=73.00, z=-748.50]
+[19Dec2024 04:26:47.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/128147, l='ServerLevel[world]', x=-688.50, y=73.00, z=-762.50]
+[19Dec2024 04:27:07.511] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/128440, l='ServerLevel[world]', x=-689.50, y=73.00, z=-746.50]
+[19Dec2024 04:27:26.764] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/128671, l='ServerLevel[world]', x=-675.50, y=77.00, z=-737.50]
+[19Dec2024 04:27:28.164] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/128688, l='ServerLevel[world]', x=-689.50, y=73.00, z=-764.50]
+[19Dec2024 04:28:15.861] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/129068, l='ServerLevel[world]', x=-632.50, y=72.00, z=-720.50]
+[19Dec2024 04:28:37.290] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/129192, l='ServerLevel[world]', x=-654.50, y=75.00, z=-825.50]
+[19Dec2024 04:28:46.714] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/129258, l='ServerLevel[world]', x=-689.50, y=73.00, z=-763.50]
+[19Dec2024 04:29:01.013] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/129345, l='ServerLevel[world]', x=-655.50, y=75.00, z=-824.50]
+[19Dec2024 04:29:03.512] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/129367, l='ServerLevel[world]', x=-687.50, y=73.00, z=-762.50]
+[19Dec2024 04:29:12.635] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/129408, l='ServerLevel[world]', x=-674.50, y=77.00, z=-737.50]
+[19Dec2024 04:29:37.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alejaso> -714 -13 -779
+[19Dec2024 04:29:41.812] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/129577, l='ServerLevel[world]', x=-687.50, y=73.00, z=-747.50]
+[19Dec2024 04:30:28.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Ice Dragon
+[19Dec2024 04:30:28.554] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:30:38.188] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:30:47.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Ice Dragon
+[19Dec2024 04:30:47.658] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:30:59.734] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:30:59.768] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:31:00.387] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:31:13.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
+[19Dec2024 04:31:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was frozen by Ice Dragon
+[19Dec2024 04:31:15.725] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:31:23.311] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:31:24.164] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:31:24.284] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:31:39.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to Alejaso]
+[19Dec2024 04:31:39.765] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:31:39.766] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:32:32.510] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/133939, l='ServerLevel[world]', x=-675.50, y=77.00, z=-738.50]
+[19Dec2024 04:33:02.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was doomed to fall by Ice Dragon
+[19Dec2024 04:33:02.135] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 04:33:06.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was turned to ice by Ice Dragon
+[19Dec2024 04:33:06.311] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:33:14.147] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:33:14.786] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:33:22.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -712.500000, -17.500000, -804.500000]
+[19Dec2024 04:33:22.903] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:33:22.905] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:33:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Ice Dragon
+[19Dec2024 04:33:23.779] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:33:31.327] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:33:31.329] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:33:33.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was turned to ice by Ice Dragon
+[19Dec2024 04:33:33.384] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 04:33:38.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was turned to ice by Ice Dragon
+[19Dec2024 04:33:38.470] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:33:44.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -722.500000, -18.500000, -809.500000]
+[19Dec2024 04:33:44.284] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:33:44.863] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:33:45.780] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:33:45.781] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:34:03.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was pricked to death
+[19Dec2024 04:34:03.390] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 04:34:10.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -706.500000, -17.500000, -786.500000]
+[19Dec2024 04:34:10.415] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:34:10.417] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:34:24.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was frozen by Ice Dragon
+[19Dec2024 04:34:24.043] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:34:28.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was slain by Ice Dragon
+[19Dec2024 04:34:28.610] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 04:34:33.842] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:34:33.845] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:34:36.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -708.500000, -17.500000, -785.500000]
+[19Dec2024 04:34:36.498] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:34:36.499] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:34:43.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was turned to ice by Ice Dragon
+[19Dec2024 04:34:43.468] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:34:51.024] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:34:51.025] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:34:51.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was frozen by Ice Dragon
+[19Dec2024 04:34:51.869] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 04:34:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was frozen by Ice Dragon
+[19Dec2024 04:34:53.967] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:35:05.338] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:35:05.579] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:35:09.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -707.500000, -17.500000, -784.500000]
+[19Dec2024 04:35:09.176] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:35:09.177] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:35:09.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was frozen by Ice Dragon
+[19Dec2024 04:35:09.432] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:35:10.551] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/139503, l='ServerLevel[world]', x=-674.50, y=77.00, z=-739.50]
+[19Dec2024 04:35:12.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was turned to ice by Ice Dragon
+[19Dec2024 04:35:12.029] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 04:35:19.056] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:35:19.098] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:35:22.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was frozen by Ice Dragon
+[19Dec2024 04:35:22.275] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:35:23.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -708.500000, -17.500000, -783.500000]
+[19Dec2024 04:35:23.830] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:35:24.450] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:35:29.527] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:35:29.527] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:35:30.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was doomed to fall by Ice Dragon
+[19Dec2024 04:35:30.988] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 04:35:33.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Ice Dragon
+[19Dec2024 04:35:33.611] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:35:37.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -699.500000, -17.500000, -791.500000]
+[19Dec2024 04:35:37.594] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:35:37.599] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:35:39.418] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/142120, l='ServerLevel[world]', x=-634.50, y=72.00, z=-718.50]
+[19Dec2024 04:35:40.476] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:35:40.478] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:35:44.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was doomed to fall by Ice Dragon
+[19Dec2024 04:35:44.593] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 04:35:51.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -701.500000, -19.500000, -789.500000]
+[19Dec2024 04:35:51.148] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:35:51.149] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:36:03.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was frozen by Ice Dragon
+[19Dec2024 04:36:03.338] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:36:03.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was turned to ice by Ice Dragon
+[19Dec2024 04:36:03.835] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 04:36:15.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -702.500000, -19.500000, -787.500000]
+[19Dec2024 04:36:15.448] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:36:15.448] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:36:15.735] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:36:15.735] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:36:16.072] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:36:16.072] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:36:20.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was frozen by Ice Dragon
+[19Dec2024 04:36:20.133] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:36:25.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was slain by Ice Dragon
+[19Dec2024 04:36:25.159] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 04:36:27.238] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:36:27.451] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:36:29.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -701.500000, -16.500000, -784.500000]
+[19Dec2024 04:36:29.697] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:36:29.698] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:36:37.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was frozen by Ice Dragon
+[19Dec2024 04:36:37.443] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:36:44.292] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:36:44.293] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:36:53.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was slain by Ice Dragon
+[19Dec2024 04:36:53.928] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:37:00.667] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/130439, l='ServerLevel[world]', x=-727.11, y=-11.94, z=-805.72, removed=DISCARDED]
+[19Dec2024 04:37:00.668] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/131245, l='ServerLevel[world]', x=-712.33, y=-10.77, z=-796.72, removed=DISCARDED]
+[19Dec2024 04:37:06.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Dragonslayer]
+[19Dec2024 04:37:21.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has made the advancement [Mother of Dragons]
+[19Dec2024 04:37:54.760] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/145824, l='ServerLevel[world]', x=-627.50, y=69.00, z=-884.50]
+[19Dec2024 04:38:15.211] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/145907, l='ServerLevel[world]', x=-634.50, y=72.00, z=-720.50]
+[19Dec2024 04:38:22.509] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/145927, l='ServerLevel[world]', x=-629.50, y=69.00, z=-884.50]
+[19Dec2024 04:40:39.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to 128.500000, 65.500000, -527.500000]
+[19Dec2024 04:42:16.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was killed by Direwolf using magic
+[19Dec2024 04:42:16.698] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:48:46.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to Alejaso]
+[19Dec2024 04:49:05.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has completed the challenge [I'm not sugar coating it]
+[19Dec2024 04:49:20.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso was shot by Frostbitten Skeleton
+[19Dec2024 04:49:20.287] [Server thread/INFO] [tombstone/]: The player Alejaso has successfully been saved
+[19Dec2024 04:49:35.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was slain by Zombie
+[19Dec2024 04:49:35.437] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 04:49:41.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -968.500000, -15.500000, -469.500000]
+[19Dec2024 04:51:07.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black has reached the goal [This Belongs in a Museum]
+[19Dec2024 04:51:13.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black was doomed to fall
+[19Dec2024 04:51:13.406] [Server thread/INFO] [tombstone/]: The player luciu_black has successfully been saved
+[19Dec2024 04:51:20.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Teleported luciu_black to -1008.500000, -26.500000, -506.500000]
