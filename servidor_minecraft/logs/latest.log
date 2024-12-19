@@ -893,3 +893,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 01:31:31.551] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
 [19Dec2024 01:33:59.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [Ambush]
 [19Dec2024 01:33:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler has made the advancement [World of illusion]
+[19Dec2024 01:40:59.813] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22598, l='ServerLevel[world]', x=-638.50, y=73.00, z=-182.50]
+[19Dec2024 01:42:25.315] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23987, l='ServerLevel[world]', x=-638.50, y=73.00, z=-181.50]
+[19Dec2024 01:42:49.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso has reached the goal [Like a bird]
+[19Dec2024 01:43:01.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nightycrawler was kicked for floating too long!
+[19Dec2024 01:43:01.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nightycrawler lost connection: Flying is not enabled on this server
+[19Dec2024 01:43:01.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler left the game
+[19Dec2024 01:43:07.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso was kicked for floating too long!
+[19Dec2024 01:43:07.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Flying is not enabled on this server
+[19Dec2024 01:43:07.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[19Dec2024 01:43:29.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:46307] logged in with entity id 24630 at (-633.4566194040358, 114.9990330757361, -255.14512831424958)
+[19Dec2024 01:43:29.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[19Dec2024 01:43:29.154] [Server thread/INFO] [Jade/]: Syncing config to Alejaso (d6a2321d-3bf9-3ff8-b584-ee9e21a362c7)
+[19Dec2024 01:43:30.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nightycrawler[/127.126.216.247:43089] logged in with entity id 24639 at (-634.7016373270354, 104.28549238931866, -253.62425477400538)
+[19Dec2024 01:43:30.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler joined the game
+[19Dec2024 01:43:30.311] [Server thread/INFO] [Jade/]: Syncing config to nightycrawler (53c7ffe4-2674-3dad-808f-18e89b78079f)
+[19Dec2024 01:43:42.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso was kicked for floating too long!
+[19Dec2024 01:43:42.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Flying is not enabled on this server
+[19Dec2024 01:43:42.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[19Dec2024 01:43:48.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nightycrawler was kicked for floating too long!
+[19Dec2024 01:43:48.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nightycrawler lost connection: Disconnected
+[19Dec2024 01:43:48.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler left the game
+[19Dec2024 01:43:48.359] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 01:44:00.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:48011] logged in with entity id 25039 at (-633.4566194040358, 100.44991458633989, -255.14512831424958)
+[19Dec2024 01:44:00.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[19Dec2024 01:44:00.264] [Server thread/INFO] [Jade/]: Syncing config to Alejaso (d6a2321d-3bf9-3ff8-b584-ee9e21a362c7)
+[19Dec2024 01:44:01.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nightycrawler[/127.126.216.247:46667] logged in with entity id 25139 at (-639.7651651820568, 89.03726557633468, -260.6277708473711)
+[19Dec2024 01:44:01.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nightycrawler joined the game
+[19Dec2024 01:44:01.980] [Server thread/INFO] [Jade/]: Syncing config to nightycrawler (53c7ffe4-2674-3dad-808f-18e89b78079f)
+[19Dec2024 01:44:13.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso was kicked for floating too long!
+[19Dec2024 01:44:13.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejaso lost connection: Flying is not enabled on this server
+[19Dec2024 01:44:13.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso left the game
+[19Dec2024 01:44:29.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alejaso[/127.88.104.80:42489] logged in with entity id 25465 at (-633.4566194040358, 86.59990442053146, -255.14512831424958)
+[19Dec2024 01:44:29.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejaso joined the game
+[19Dec2024 01:44:29.441] [Server thread/INFO] [Jade/]: Syncing config to Alejaso (d6a2321d-3bf9-3ff8-b584-ee9e21a362c7)
+[19Dec2024 01:45:35.712] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26090, l='ServerLevel[world]', x=-639.50, y=73.00, z=-181.50]
+[19Dec2024 01:46:45.163] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26740, l='ServerLevel[world]', x=-638.50, y=73.00, z=-183.50]
