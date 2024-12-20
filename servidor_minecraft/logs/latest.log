@@ -866,3 +866,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 19:14:25.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Survival Mode]
 [20Dec2024 19:21:16.954] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vanja'/7290, l='ServerLevel[world]', x=102.12, y=74.00, z=-131.10] died, message: 'Vanja hit the ground too hard'
 [20Dec2024 19:23:43.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
+[20Dec2024 19:25:25.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black lost connection: Disconnected
+[20Dec2024 19:25:25.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciu_black left the game
