@@ -854,3 +854,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 19:02:47.687] [Server thread/INFO] [Jade/]: Syncing config to luciu_black (48812f9b-dcef-3414-958e-f80113c926fd)
 [20Dec2024 19:02:51.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3565ms or 71 ticks behind
 [20Dec2024 19:02:51.025] [Server thread/INFO] [com.yogpc.qp.integration.ic2.QuarryIC2Integration/]: Set QuarryPlus ic2 integration to false
+[20Dec2024 19:06:30.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
+[20Dec2024 19:07:12.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Survival Mode]
+[20Dec2024 19:08:45.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
+[20Dec2024 19:09:16.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Survival Mode]
+[20Dec2024 19:09:54.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
+[20Dec2024 19:10:55.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3113ms or 62 ticks behind
+[20Dec2024 19:10:55.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciu_black moved too quickly! -10.292331258590494,0.0,-1.2835020589762962
+[20Dec2024 19:11:37.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Survival Mode]
+[20Dec2024 19:14:06.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Creative Mode]
+[20Dec2024 19:14:25.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciu_black: Set own game mode to Survival Mode]
